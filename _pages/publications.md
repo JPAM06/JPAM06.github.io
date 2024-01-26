@@ -16,4 +16,9 @@ nav_order: 2
 
 ---
 Other contributions
----
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
