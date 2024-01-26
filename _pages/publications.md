@@ -14,4 +14,4 @@ nav_order: 2
 
 </div>
 
-Projects I've contributed to.
+Other contributions.
