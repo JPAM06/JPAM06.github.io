@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 🇨🇴 Economist
+subtitle: Economist ✈️
 
 profile:
   align: right
