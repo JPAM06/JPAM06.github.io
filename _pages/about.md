@@ -5,11 +5,11 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>International Monetary Fund</p>
+    <p>IMF</p>
     <p>700 19th Street, N.W.</p>
     <p>Washington, D.C. 20431</p>
 
