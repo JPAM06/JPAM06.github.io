@@ -6,14 +6,17 @@ description:
 nav: true
 nav_order: 2
 ---
+
+## Working papers
 <!-- _pages/publications.md -->
 <div class="publications">
 
-## Working papers
-
 {% bibliography -f papers %}
+</div>
 
 ## Technical reports and short papers
+<!-- _pages/publications.md -->
+<div class="publications">
 
 {% bibliography -f reports %}
 
