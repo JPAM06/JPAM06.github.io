@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JPAM06.github.io/sitemap.xml
+Sitemap: https://jpam06.github.io/sitemap.xml
