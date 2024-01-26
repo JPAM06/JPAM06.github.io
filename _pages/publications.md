@@ -15,13 +15,7 @@ nav_order: 2
 </div>
 
 ---
-layout: page
-permalink: /publications/
-title: Other contributions
-description:
-nav: true
-nav_order: 2
----
+## Other contributions
 
 <div class="publications">
 
