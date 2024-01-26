@@ -14,4 +14,6 @@ nav_order: 2
 
 </div>
 
-Other contributions.
+---
+title: Other contributions
+---
