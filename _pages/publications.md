@@ -15,5 +15,5 @@ nav_order: 2
 </div>
 
 ---
-title: Other contributions
+Other contributions
 ---
