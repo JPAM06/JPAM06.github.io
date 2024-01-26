@@ -14,11 +14,10 @@ nav_order: 2
 
 </div>
 
----
 ## Other contributions
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography_others %}
 
 </div>
