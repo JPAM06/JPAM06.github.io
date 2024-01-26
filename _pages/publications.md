@@ -23,4 +23,10 @@ nav_order: 2
 </div>
 
 ## Other contributions
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f preprints %}
+</div>
+
 
