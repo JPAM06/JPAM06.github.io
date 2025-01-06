@@ -7,6 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+## Published papers
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f published %}
+</div>
+
 ## Working papers
 <!-- _pages/publications.md -->
 <div class="publications">
